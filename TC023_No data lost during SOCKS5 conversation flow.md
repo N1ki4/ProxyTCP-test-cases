@@ -1,7 +1,7 @@
 
 ### Test Case Title: ###
 
- Proxy server data transmission								
+ No data lost during SOCKS5 conversation flow								
 
 ---
 

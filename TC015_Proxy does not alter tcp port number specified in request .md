@@ -1,7 +1,7 @@
 
 ### Test Case Title: ###
 
-Web page with different ports
+Proxy does not alter tcp port number specified in request 
 
 ---
 

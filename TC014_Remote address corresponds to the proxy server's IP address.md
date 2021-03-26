@@ -1,7 +1,7 @@
 
 ### Test Case Title: ###
 
-Remote address changes					
+Remote address corresponds to the proxy server's IP address					
 
 ---
 
