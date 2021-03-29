@@ -11,7 +11,7 @@ Some page resources failed to load on first opening light page
 
 **Description:**
 
-Loading light web page with enabled proxy causes data loosing. Some web page resources failed to load.
+Loading light web page with enabled proxy causes data loosing. Some web page resources failed to load like: pictures, css or javascript.
 
 ---
 

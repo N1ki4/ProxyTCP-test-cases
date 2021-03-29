@@ -12,7 +12,7 @@ Proxy supports TLS version 1.3
 
 **Description:**
 
-Verify proxy works correctly with TLS 1.3 version. Inspect every step of the TLS connection like handshakes and negotiation of the session. 
+Verify proxy works with TLS 1.3 version. Inspect every step of the TLS connection like handshakes and negotiation of the session. 
 Make sure to use website which uses TLS version 1.3 as test data.
 
 ---
