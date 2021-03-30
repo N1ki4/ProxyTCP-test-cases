@@ -1,7 +1,7 @@
 
 ### Test Case Title: ###
 
- SOCKS5 protocol's handshake is implemented correctly									
+ SOCKS5 protocol's handshake is successful								
 
 ---
 
