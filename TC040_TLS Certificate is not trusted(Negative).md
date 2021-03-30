@@ -23,7 +23,7 @@ Verify proxy does not change default browser behavior when requesting page with 
 |      ID       | Steps/Actions |  Test Data  | Expected Result |
 | :------------ |:--------------| :---------- | :-------------- |
 |       1       | Execute Test Case ID-002 | |
-|       2       | Open page | https://greenleadershiptrust.org | Browser throws "Privacy Error", heading "Your connection is not private" is shown |
-|       3       | Open page | http://www.grupoemsa.org | On the left to the url warning icon is shown with text "Not secure"
+|       2       | Open page | https://greenleadershiptrust.org | Browser throws "Privacy Error", heading "Your connection is not private" is shown. Error "NET::ERR_CERT_COMMON_NAME_INVALID" |
+|       3       | Open page | https://www.grupoemsa.org | Browser throws "Privacy Error", heading "Your connection is not private" is shown. Error "NET::ERR_CERT_AUTHORITY_INVALID
 
 ---

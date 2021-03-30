@@ -23,7 +23,7 @@ Verify Browser shows “Not Secure” warning when opening TLS 1.0 and TLS 1.1 v
 |      ID       | Steps/Actions |  Test Data  | Expected Result |
 | :------------ |:--------------| :---------- | :-------------- |
 |       1       | Execute Test Case ID-002 | |
-|       2       | Open page | https://bestpeople.name | Browser throws "Privacy Error", heading "Your connection is not fully secure" is shown |
-|       3       | Open page | http://receipt1.seiko-cybertime.jp | On the left to the url warning icon is shown with text "Not secure"
+|       2       | Open page | https://bestpeople.name | Browser throws "Privacy Error", heading "Your connection is not fully secure" is shown. Error "NET::ERR_SSL_OBSOLETE_VERSION" |
+|       3       | Open page | https://receipt1.seiko-cybertime.jp | Browser throws "Privacy Error", heading "Your connection is not fully secure" is shown. Error "NET::ERR_SSL_OBSOLETE_VERSION"
 
 ---
