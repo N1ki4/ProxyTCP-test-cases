@@ -13,6 +13,8 @@ Some page resources failed to load on first opening light page
 
 Loading light web page with enabled proxy causes data loosing. Some web page resources failed to load like: pictures, css or javascript.
 
+**Blocks:** TC32, TC33, TC34, TC35, TC36, TC37
+
 ---
 
 **Steps to reproduce:**
