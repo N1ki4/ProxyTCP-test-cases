@@ -23,7 +23,7 @@ Verify web page opens successfully in Firefox browser with enabled proxy. Respon
 
 |      ID       | Steps/Actions |  Test Data  | Expected Result |
 | :------------ |:--------------| :---------- | :-------------- |
-|       1       | Execute Test Case ID-002 | |          
+|       1       | Execute Test Case ID-005 | |          
 |       2       | Open page | https://en.wikipedia.org/wiki/Internet_Protocol | Page is opened|
 |       3       | Open Firefox Developer Tools (Network tab) |  | "Main Page" Headers -  Status Code 200 |
 

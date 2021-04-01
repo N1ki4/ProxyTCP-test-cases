@@ -34,13 +34,13 @@ for generating http codes: https://httpstat.us.
 | :------------ |:------| :-----------|
 |       1       | 200   | OK |
 |       2       | 301   | Moved Permanently |
-|       1       | 302   | Moved Temporary |
-|       2       | 400   | Bad Request |
-|       1       | 403   | Forbidden |
-|       2       | 404   | Not Found |
-|       2       | 500   | Internal Server Error |
-|       1       | 502   | Bad Gateway |
-|       2       | 503   | Service Unavailable |
+|       3       | 302   | Moved Temporary |
+|       4       | 400   | Bad Request |
+|       5       | 403   | Forbidden |
+|       6       | 404   | Not Found |
+|       7       | 500   | Internal Server Error |
+|       8       | 502   | Bad Gateway |
+|       9       | 503   | Service Unavailable |
 
 
 
