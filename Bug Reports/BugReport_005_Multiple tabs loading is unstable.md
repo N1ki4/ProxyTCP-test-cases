@@ -6,13 +6,12 @@ Multiple tabs loading in Chrome is unstable
 
 **Bug Report ID:** 005
 
-**Severity:** High
+**Severity:** Medium
 
 
 **Description:**
 
-Simultaneous loading of multiple tabs in Chrome is unstable. 
-Three webpages of super-light class were used to test test 
+Simultaneous loading of multiple tabs in Chrome is unstable. Three webpages of super-light class were used to test test 
 this issue: <br/>
 1. https://dev.mysql.com/doc/refman/8.0/en/ <br/>
 2. https://tools.ietf.org/html/rfc1928 <br/>
