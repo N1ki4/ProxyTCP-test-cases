@@ -4,7 +4,7 @@ Multiple tabs loading in Chrome is unstable
 
 ---
 
-**Bug Report ID:** 003
+**Bug Report ID:** 005
 
 **Severity:** High
 
@@ -43,9 +43,9 @@ ___
 
   |Screenshot 1.1|Screenshot 1.2|Screenshot 1.3|
   |:-------------|:-------------|:-------------|
-  | ![](Attachments/br_03_sh1_1.png) |![](Attachments/br_03_sh1_2.png) | ![](Attachments/br_03_sh1_3.png) |
+  | ![](Attachments/br_05_sh1_1.png) |![](Attachments/br_05_sh1_2.png) | ![](Attachments/br_05_sh1_3.png) |
 
   |Screenshot 2.1|Screenshot 2.2|Screenshot 3.3|
   |:-------------|:-------------|:-------------|
-  | ![](Attachments/br_03_sh2_1.png) |![](Attachments/br_03_sh2_2.png) | ![](Attachments/br_03_sh2_3.png) |
+  | ![](Attachments/br_05_sh2_1.png) |![](Attachments/br_05_sh2_2.png) | ![](Attachments/br_05_sh2_3.png) |
 
