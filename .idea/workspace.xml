@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="974b0fe8-9c2b-474d-8919-1ab8f7a05b55" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bug Reports/BugReport_003_Multiple tabs loading is unstable.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bug Reports/BugReport_003_Multiple tabs loading is unstable.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
       <workItem from="1617089646012" duration="7000" />
       <workItem from="1617089744261" duration="18790000" />
       <workItem from="1617269672026" duration="6000" />
-      <workItem from="1617269841335" duration="3699000" />
+      <workItem from="1617269841335" duration="4002000" />
     </task>
     <servers />
   </component>

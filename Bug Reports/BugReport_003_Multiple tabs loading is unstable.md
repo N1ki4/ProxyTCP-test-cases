@@ -43,16 +43,9 @@ ___
 
   |Screenshot 1.1|Screenshot 1.2|Screenshot 1.3|
   |:-------------|:-------------|:-------------|
-  | ![](Attachments/br_03_sh1_1.png) | <img src="/Attachments/br_03_sh1_2.png" width="100" /> | <img src="/img3.png" width="100" /> |
+  | ![](Attachments/br_03_sh1_1.png) |![](Attachments/br_03_sh1_2.png) | ![](Attachments/br_03_sh1_3.png) |
 
+  |Screenshot 2.1|Screenshot 2.2|Screenshot 3.3|
+  |:-------------|:-------------|:-------------|
+  | ![](Attachments/br_03_sh2_1.png) |![](Attachments/br_03_sh2_2.png) | ![](Attachments/br_03_sh2_3.png) |
 
-
-|      ID       | Steps/Actions |  Expected Result | Actual Result |
-| :------------ |:--------------| :---------- | :-------------- |
-|       1       | Execute Test Case ID-002 |  |  |
-|       2       | Open 3 tabs in the browser <br/> tab1: https://wiki.archlinux.org/ <br/>tab2: https://tools.ietf.org/html/rfc1928 <br/>  tab3: https://dev.mysql.com/doc/refman/8.0/en/ | Pages loaded | Page have timeout error (see description)|
-
-### picture 1 ###
-![Attachments/img.png](Attachments/img.png)
-### picture 2 ###
-![img_2.png](Attachments/img_2.png)
